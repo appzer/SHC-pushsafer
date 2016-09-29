@@ -13,6 +13,8 @@ Pushsafer make it easy and safe to get push-notifications in real time on your
 
 Usage:
 --------
+In pushsafer.sh replace the variable PRIVATEKEY with your private or alias key.
+
 Copy pushsafer.sh and set permissions
 <pre>
 cp pushsafer.sh /usr/bin
