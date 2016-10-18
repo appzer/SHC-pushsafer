@@ -25,12 +25,12 @@ Now you have access from anywhere on this file.
 
 In SHC you call the script as a switching function
 <pre>
-pushsafer.sh "My Message" "My Title" "Device" "Icon" "Sound" "Vibration"
+pushsafer.sh "My Message" "My Title" "Device" "Icon" "Sound" "Vibration" "URL" "URLTitle" "Time2Live"
 </pre>
 
 Find API description here at [pushsafer api](https://www.pushsafer.com/de/pushapi) to set up your push notification!
 
 Example:
 <pre>
-pushsafer.sh "Motion detected" "SHC" "119" "82" "17" "3"
+pushsafer.sh "Motion detected" "SHC" "119" "82" "17" "3" "https://www.pushsafer.com"  "Open Pushsafer" "60"
 </pre>
