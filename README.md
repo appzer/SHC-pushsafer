@@ -11,6 +11,10 @@ Pushsafer make it easy and safe to get push-notifications in real time on your
 - Windows 10 Phone & Desktop
 - Browser (Chrome & Firefox)
 
+Download:
+--------
+[https://github.com/appzer/SHC-pushsafer/](https://github.com/appzer/SHC-pushsafer/)
+
 Usage:
 --------
 In pushsafer.sh replace the variable PRIVATEKEY with your private or alias key.
